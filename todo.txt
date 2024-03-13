@@ -1,0 +1,29 @@
+Ecommerce Website Layout in React
+
+Objective: Create a basic layout for an ecommerce website using React, focusing on component-based architecture and page structure.
+Requirements:
+
+Use React for building the website.
+Implement at least three major pages:
+-Home Page: Display featured products and any promotional content.
+-Product Listing Page: Display a grid or list of products with basic information (name, price, image).
+-Product Detail Page: Display detailed information about a selected product including images, description, price, and options for purchase.
+Use components for:
+-Header: Including navigation links.
+-Footer: Including links to important pages, contact information, and social media links.
+-Product Card: Displaying basic product information.
+-Product Detail: Displaying detailed information about a single product.
+
+Implement a responsive design ensuring the website looks good on different screen sizes.
+Use dummy data for products.
+Use Tailwindcss for styling.
+Use React Router Dom for Routing
+Frontend Merged (05 & 06 )- Vrit Technologies
+
+
+kGFbKwsShyWpqcGj
+
+bhusalhari89
+
+mongodb+srv://bhusalhari89:kGFbKwsShyWpqcGj@orders.fwqm1s7.mongodb.net/
+
